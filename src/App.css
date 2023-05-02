@@ -27,6 +27,14 @@
 .App-link {
   color: #61dafb;
 }
+ul {
+  list-style-type: none;
+}
+.weather {
+  border: 2px solid #2a2438;
+  border-radius: 8px;
+  padding: 30px;
+}
 
 @keyframes App-logo-spin {
   from {
